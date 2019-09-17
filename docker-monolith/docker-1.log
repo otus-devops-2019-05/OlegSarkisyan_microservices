@@ -1,0 +1,4 @@
+REPOSITORY                   TAG                 IMAGE ID            CREATED             SIZE
+osarkisyan/ubuntu-tmp-file   latest              699b7cd0cb78        4 minutes ago       120MB
+ubuntu                       16.04               5e13f8dd4c1a        7 weeks ago         120MB
+hello-world                  latest              fce289e99eb9        8 months ago        1.84kB
