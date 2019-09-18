@@ -1,6 +1,20 @@
 # OlegSarkisyan_microservices
 OlegSarkisyan microservices repository
 
+# Выполнено ДЗ №14 - Docker: сети, docker-compose
+
+##  Основное ДЗ
+Создали ветку docker-4
+Подключились к ранее созданному Docker host
+Потестировали работу с сетью в Docker
+none, host, bridge
+Установили Docker-compose
+Создали docker-compose.yml
+Поработали с переменными окрeжения
+Базовое имя формируется из названия папки + название сервиса
+Выполнили самостоятельные задания
+запушили ветку на github
+
 # Выполнено ДЗ №13 - Docker Микросервисы
 
 ##  Основное ДЗ
