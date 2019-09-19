@@ -1,10 +1,10 @@
 stages:
-  - build
+  - t_build
   - test
   - deploy
 
 build_job:
-  stage: build
+  stage: t_build
   tags:
     - docker
   script:
