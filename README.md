@@ -1,6 +1,24 @@
 # OlegSarkisyan_microservices
 OlegSarkisyan microservices repository
 
+# Выполнено ДЗ №15 - Gitlab:построение процесса непрерывной поставки 
+
+##  Основное ДЗ
+Создали ветку gitlab-ci-1
+С помощью Docker-machine развернули новую VM 
+Установили Docker затем docker-compose.yml
+Скачали образы и запустили gitlab CI 
+Зарегестрировались, создали группу, создали проект
+Подключили проект microservices
+Создали и запушили .gitlab-ci.yml
+Создали и запустили runner
+Запустили пайплайн
+Добавили тесты
+Описали окружение, добавили два этапа staging и production
+Добавили тэгирование 
+Определили динамические окружения
+Запушили сборку в origin
+
 # Выполнено ДЗ №14 - Docker: сети, docker-compose
 
 ##  Основное ДЗ

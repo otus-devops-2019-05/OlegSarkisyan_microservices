@@ -1,0 +1,33 @@
+stages:
+  - t_build
+  - test
+  - deploy
+
+build_job:
+  stage: t_build
+  tags:
+    - docker
+  script:
+    - echo 'Building'
+
+test_unit_job:
+  stage: test
+  tags:
+    - docker
+  script:
+    - echo 'Testing 1'
+
+test_integration_job:
+  stage: test
+  tags:
+    - docker
+  script:
+    - echo 'Testing 2'
+
+deploy_job:
+  stage: deploy
+  tags:
+    - docker
+  script:
+    - echo 'Deploy'
+
