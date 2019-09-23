@@ -39,11 +39,6 @@ services:
   node-exporter:
     image: prom/node-exporter:v0.15.2
     user: root
-    networks:
-      - back_net
-      - front_net
-    ports:
-      - '9100:9100'
     volumes:
       - /proc:/host/proc:ro
       - /sys:/host/sys:ro
@@ -59,4 +54,5 @@ volumes:
 networks:
   back_net:
   front_net:
+
 
