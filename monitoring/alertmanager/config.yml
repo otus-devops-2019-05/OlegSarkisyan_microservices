@@ -1,0 +1,11 @@
+global:
+  slack_api_url: 'https://hooks.slack.com/services/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'
+
+route:
+  receiver: 'slack-notifications'
+
+receivers:
+- name: 'slack-notifications'
+  slack_configs:
+  - channel: '#oleg_sarkisyan'
+
