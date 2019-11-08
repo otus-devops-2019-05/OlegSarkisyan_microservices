@@ -1,6 +1,21 @@
 # OlegSarkisyan_microservices
 OlegSarkisyan microservices repository
 
+# Выполнено ДЗ №20 - Kubernetes. Запуск кластера и приложения. Модель безопасности.
+
+##  Основное ДЗ
+Создали ветку kubernetes-2
+Развернули локальный Kubernetes
+Создали ресурсы для Deployment 
+Проверили работу UI и пробросили сетевые порты
+Настроили comment, самостоятельно настроили post
+Настроили Mongodb и объекты Service - post, ui, mongodb и comment
+Для правильного поиска адресов настроим comment-mongodb-service.yml и post-mongodb-service.yml
+Посмотрели на работу minikube
+Посмотрели на вывод Namespace
+Развернули Kubernetes в GСP в GKE
+Запустили приложение в GKE
+Запушили ветку на github
 
 
 # Выполнено ДЗ №19 - Введение в Kubernetes
