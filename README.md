@@ -1,6 +1,17 @@
 # OlegSarkisyan_microservices
 OlegSarkisyan microservices repository
 
+
+
+# Выполнено ДЗ №19 - Введение в Kubernetes
+
+##  Основное ДЗ
+Создали ветку kubernetes-1
+Создали директорию reddit
+Создали файлы с манифестами
+Прошли задание The Hard Way
+Запушили ветку на github
+
 # Выполнено ДЗ №18 - Логирование и распределенная трассировка
 
 ##  Основное ДЗ
