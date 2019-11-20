@@ -1,6 +1,23 @@
 # OlegSarkisyan_microservices
 OlegSarkisyan microservices repository
 
+# Выполнено ДЗ №22 - CI/CD в Kubernetes
+
+##  Основное ДЗ
+Создали ветку kubernetes-4
+Установили Helm
+Создали директорию Charts с вложенной структурой
+Заполнили компоненты ui, post, comment
+Добавили шаблоны манифестов kubernetes
+Создали единный Chart reddit для объединения компонент
+Установили плагин tiller, установили новую версию Helm
+Подготовили GKE-кластер и установили Gitlab 
+Создали 4 проекта
+Запустили проект ui, post, comment 
+Настроили CI, доавбили в репозитории файлы .gitlab-ci.yml
+Переделали пайплайны избавившись от auto_devops
+Выполнинили организационные требования
+Запушили ветку на github
 
 # Выполнено ДЗ №21 - Kubernetes. Networks ,Storages.
 
